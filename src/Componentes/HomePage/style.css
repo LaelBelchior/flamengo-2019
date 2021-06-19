@@ -1,0 +1,12 @@
+.escalacao{
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    
+    margin: 1rem;
+    padding: 1rem;
+
+    width: 100vw;
+    
+}

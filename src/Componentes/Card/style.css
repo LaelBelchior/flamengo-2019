@@ -1,0 +1,17 @@
+.card-container {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-family: 'Montserrat', sans-serif;
+
+    border: 1px solid #d5d5d5;
+    border-radius: 4px;
+    width: 200px;
+    height: 220px;
+    background-color:#f1f1f1;
+    margin: 1.5rem;
+    padding: 10px
+
+  }
